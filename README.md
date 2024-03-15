@@ -18,17 +18,12 @@ Hello! I'm Kevin, a Data Science Major and AI Minor at Drexel University. I am a
 
 ## 🌐 Projects
 
-- **Project A**: Description ([Link to Repository](#))
-- **Project B**: Description ([Link to Repository](#))
-
 ## 👨‍💻 Work Experience
 
 - **Web Developer For Research Data Apps**
   - Children's Hospital of Philadelphia
 
 ## 📚 Publications
-- ["Title of Paper"](Link)
-
 ## 📫 Contact
 
 - LinkedIn: [Kevin Mastascusa](#)
